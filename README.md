@@ -1,2 +1,5 @@
-# ICLR2019
-The goal of this project is to solve the out-distribution problem for Deep networks
+# ICLR2020
+
+## How to run?
+
+    python3 demo.py
